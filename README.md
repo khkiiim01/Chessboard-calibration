@@ -12,5 +12,5 @@ Chessboard Camera calibration using OpenCV
  -2.21783999e+00]
 
  ## 보정
- ![보정 이미지](./sample.png)
+ ![보정 이미지](./data/sample.png)
 휴대폰 카메라로 찍어서인지 이미 너무 잘 보정이 잘 적용되어 있어서 일부러 넓혀보았음음
